@@ -21,6 +21,8 @@ This does the following:
 3. Identify "click me" button by ID
 4. Click the "click me" button
 5. Identify "close me" button by ID
+6. Click the "close me" button
+7. Repeat steps 3 through 6 a thousand times
 
 
 Setup: 
